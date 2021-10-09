@@ -1,0 +1,2 @@
+# GoMerch
+Vypracovanie zadania
